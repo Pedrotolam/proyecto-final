@@ -9,7 +9,7 @@ Este es un proyecto de análisis predictivo que utiliza modelos de regresión li
 
 > Link del repositorio en GitHub: https://github.com/Pedrotolam/proyecto-final.git
 > 
-> Link del video: https://ugyemy.sharepoint.com/:v:/g/personal/erick_apolobal_ug_edu_ec/ERMT6d189UxJhzvSoxAwLvkBUEWPLkaPQuefJS1oX5q7PQ?e=8HvIDa
+> Link del video: [Video - Proyecto G2](https://ugye-my.sharepoint.com/:v:/g/personal/erick_apolobal_ug_edu_ec/ERMT6d189UxJhzvSoxAwLvkBUEWPLkaPQuefJS1oX5q7PQ?e=8HvIDa)
 
 # **Carpetas**
 
